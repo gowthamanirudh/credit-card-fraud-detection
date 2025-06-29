@@ -18,7 +18,7 @@ The model demonstrates high precision and recall for both legitimate and fraudul
 The accompanying Streamlit app allows users to:
 - Simulate predictions using real or custom transaction data
 - View model output instantly
-- Analyze results with visual tools such as pie charts, confusion matrix, and prediction history line graph
+- Analyze results with visual tools such as pie charts, performance metrics and prediction history line graph
 
 This project showcases practical experience in handling imbalanced datasets, training classification models, evaluating performance, and building interactive ML applications.
 
