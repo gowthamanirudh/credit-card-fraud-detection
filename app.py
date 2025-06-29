@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # Load model and scaler
 model = joblib.load("model/fraud_model.pkl")
 scaler = joblib.load("model/scaler.pkl")
-df = pd.read_csv("data/creditcard.csv")
+# df = pd.read_csv("data/creditcard.csv")
 
 # Prepare real samples
 a_sample_legit = df[df['Class'] == 0].iloc[0].drop("Class").values
