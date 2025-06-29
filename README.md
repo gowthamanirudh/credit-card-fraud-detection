@@ -22,3 +22,4 @@ The accompanying Streamlit app allows users to:
 
 This project showcases practical experience in handling imbalanced datasets, training classification models, evaluating performance, and building interactive ML applications.
 
+The app url is given here: https://credit-card-fraud-detection-b64bcilfsb4lkgejc6a5cn.streamlit.app/
